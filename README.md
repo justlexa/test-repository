@@ -5,9 +5,4 @@
 Tässä markdown tiedostossa on **paljon** asioita
 *tiedostossa olevat asiat ovat vaan piilossa*
 
-
-
-
-
-
 vai onko?
