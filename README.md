@@ -28,7 +28,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - This list
 - Is unordered
-   - List 3
+
+   ### List 3
+
    - And this list
    - Is nested in list 2
 - As you can see.
+
+Here is an image for you to look at!
+
+   ![A silly cat](https://user-images.githubusercontent.com/94641097/222066542-c7a7d8b1-3bb5-4d4b-af57-1096a307ac09.png)
+   
+What a silly cat :)
+
+> "Bruh" - Barack Obama
+
+Here´s some html code for a paragraph: `<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>`
